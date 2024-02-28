@@ -1,14 +1,14 @@
 # read_excel
-Benchmark Simple xlsx reader vs Creek vs Fastsheet
-
-_Fastsheet need install Rust before_
+Benchmark Simple xlsx reader vs Creek
 
 # how does it works?
-* clone repo
-* ruby ./read_excel/lib/main.rb
+```bash
+$ git clone https://github.com/JuIturra/read_excel.git
+$ ruby ./read_excel/lib/main.rb
+```
 
-# Bench
-ruby: 2.5.5
+# Benchmark
+ruby: 3.0.3
 
 ```
             user     system      total        real
